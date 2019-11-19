@@ -3,5 +3,7 @@ public class test03 {
         System.out.println("hello word");
 
         System.out.println();
+
+        System.out.println();
     }
 }
