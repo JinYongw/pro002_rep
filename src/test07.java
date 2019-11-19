@@ -4,6 +4,9 @@ public class test07 {
         System.out.println("this is 07");
     }
     public void  test (){
-        System.out.println("this is test method");
+        System.out.println("this is other method");
+    }
+    public void test02(){
+        System.out.println("this is 02test");
     }
 }
